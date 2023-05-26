@@ -1,3 +1,6 @@
 English:en-US:RED
 Spanish:es-US:GREEN
 Portuguese-Brazillian:pt-br:YELLOW
+Gaelige:ga-ir:ORANGE
+Russian:ru-ru:GRAY
+Pirate:pirate:BLUE
